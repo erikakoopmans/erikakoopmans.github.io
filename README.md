@@ -1,6 +1,7 @@
 <img src="https://images.unsplash.com/photo-1611180900214-d4c04c67e6e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="Image">
 
-cit281-lab1 Practice using software tools and terminal commands. Creating my first Node.js server-side JavaScript file.
+[cit281-lab1](https://github.com/erikakoopmans/cit281-lab1.git)
+ Practice using software tools and terminal commands. Creating my first Node.js server-side JavaScript file.
 
 cit281-lab2 Use CLI commands for directory and for git commands. Working with git by creating repository, adding files, ignoring files, cloning, and commiting.
 
