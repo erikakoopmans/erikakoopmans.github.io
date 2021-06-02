@@ -31,6 +31,4 @@ cit281-project6 Created a base class Shape, a second class called Rectangle that
 
 cit281-lab9 Created Learning Lab course/repo within GitHub account and worked through the course to complete course repo.
 
-cit281-lab10 Open lab.
-
 cit281-project7 Creating CIT Minor Portfolio.
