@@ -11,7 +11,7 @@ cit281-project1 Gain experience using command line interface, CLI commands, VSCo
 
 cit281-project2 Used CLI to create and work with git repo, refactored JavaScript program, and used git via VSCode.
 
-cit281-lab4 Practiced using Fastify, Node Package Manager, and fixed MIME errors.
+[cit281-lab4](https://erikakoopmans.github.io/cit281-lab4) Practiced using Fastify, Node Package Manager, and fixed MIME errors.
 
 cit281-lab5 Practice using Postman, Fastify, and Node.js. Used Postman to practice using GET and Post request.
 
