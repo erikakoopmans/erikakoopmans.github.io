@@ -23,7 +23,7 @@
 
 [cit281-lab7](https://erikakoopmans.github.io/cit281-lab7/) Practiced with GitHub by creating a GitHub organization, creating a GitHub repository, cloning to local system, updating and commiting, and pushing changes to GitHub.
 
-cit281-project5 Extra Credit Project. Create a Monster Game program using classes.
+[cit281-project5](https://erikakoopmans.github.io/cit281-project5/) Extra Credit Project. Create a Monster Game program using classes.
 
 [cit281-lab8](https://erikakoopmans.github.io/cit281-lab8/) Practiced with Node.js, Fastify, node-fetch, and fecthed JSONPlaceholder data.
 
