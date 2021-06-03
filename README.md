@@ -15,7 +15,7 @@
 
 [cit281-lab5](https://erikakoopmans.github.io/cit281-lab5/) Practice using Postman, Fastify, and Node.js. Used Postman to practice using GET and Post request.
 
-cit281-project3 Created a "coinage" code that calculates the total value of coin objects, used Node.js and fastify.
+[cit281-project3](https://erikakoopmans.github.io/cit281-project3/) Created a "coinage" code that calculates the total value of coin objects, used Node.js and fastify.
 
 [cit281-lab6](https://erikakoopmans.github.io/cit281-lab6/) Join and work through Introduction to GitHub. Practiced using class and adding to classes as well as deleting.
 
