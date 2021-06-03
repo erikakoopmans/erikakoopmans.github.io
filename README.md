@@ -19,7 +19,7 @@
 
 [cit281-lab6](https://erikakoopmans.github.io/cit281-lab6/) Join and work through Introduction to GitHub. Practiced using class and adding to classes as well as deleting.
 
-cit281-project4 Created a REST API that works with a "data" source of questions and answers. Created code and tested the code module. Created a Node.js REST API for the GET verb.
+[cit281-project4](https://erikakoopmans.github.io/cit281-project4/) Created a REST API that works with a "data" source of questions and answers. Created code and tested the code module. Created a Node.js REST API for the GET verb.
 
 [cit281-lab7](https://erikakoopmans.github.io/cit281-lab7/) Practiced with GitHub by creating a GitHub organization, creating a GitHub repository, cloning to local system, updating and commiting, and pushing changes to GitHub.
 
