@@ -25,7 +25,7 @@ cit281-project4 Created a REST API that works with a "data" source of questions 
 
 cit281-project5 Extra Credit Project. Create a Monster Game program using classes.
 
-cit281-lab8 Practiced with Node.js, Fastify, node-fetch, and fecthed JSONPlaceholder data.
+[cit281-lab8](https://erikakoopmans.github.io/cit281-lab8/) Practiced with Node.js, Fastify, node-fetch, and fecthed JSONPlaceholder data.
 
 cit281-project6 Created a base class Shape, a second class called Rectangle that inherits from Shape (aka child class of the base), and a third class called Triangle which is also a child class.
 
