@@ -27,7 +27,7 @@
 
 [cit281-lab8](https://erikakoopmans.github.io/cit281-lab8/) Practiced with Node.js, Fastify, node-fetch, and fecthed JSONPlaceholder data.
 
-cit281-project6 Created a base class Shape, a second class called Rectangle that inherits from Shape (aka child class of the base), and a third class called Triangle which is also a child class.
+[cit281-project6](https://erikakoopmans.github.io/cit281-project6/) Created a base class Shape, a second class called Rectangle that inherits from Shape (aka child class of the base), and a third class called Triangle which is also a child class.
 
 [cit281-lab9](https://erikakoopmans.github.io/cit281-lab9/) Created Learning Lab course/repo within GitHub account and worked through the course to complete course repo.
 
