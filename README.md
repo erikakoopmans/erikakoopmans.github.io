@@ -29,6 +29,6 @@ cit281-project5 Extra Credit Project. Create a Monster Game program using classe
 
 cit281-project6 Created a base class Shape, a second class called Rectangle that inherits from Shape (aka child class of the base), and a third class called Triangle which is also a child class.
 
-cit281-lab9 Created Learning Lab course/repo within GitHub account and worked through the course to complete course repo.
+[cit281-lab9](https://erikakoopmans.github.io/cit281-lab9/) Created Learning Lab course/repo within GitHub account and worked through the course to complete course repo.
 
 cit281-project7 Creating CIT Minor Portfolio.
