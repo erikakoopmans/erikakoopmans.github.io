@@ -17,7 +17,7 @@ cit281-project2 Used CLI to create and work with git repo, refactored JavaScript
 
 cit281-project3 Created a "coinage" code that calculates the total value of coin objects, used Node.js and fastify.
 
-cit281-lab6 Join and work through Introduction to GitHub. Practiced using class and adding to classes as well as deleting.
+[cit281-lab6](https://erikakoopmans.github.io/cit281-lab6/) Join and work through Introduction to GitHub. Practiced using class and adding to classes as well as deleting.
 
 cit281-project4 Created a REST API that works with a "data" source of questions and answers. Created code and tested the code module. Created a Node.js REST API for the GET verb.
 
