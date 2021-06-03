@@ -31,4 +31,4 @@
 
 [cit281-lab9](https://erikakoopmans.github.io/cit281-lab9/) Created Learning Lab course/repo within GitHub account and worked through the course to complete course repo.
 
-cit281-project7 Creating CIT Minor Portfolio.
+[cit281-project7](https://erikakoopmans.github.io/cit281-project7/) Creating CIT Minor Portfolio.
