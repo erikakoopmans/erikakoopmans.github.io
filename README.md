@@ -5,7 +5,7 @@
 
 [cit281-lab2](https://erikakoopmans.github.io/cit281-lab2/) Use CLI commands for directory and for git commands. Working with git by creating repository, adding files, ignoring files, cloning, and commiting.
 
-cit281-project1 Gain experience using command line interface, CLI commands, VSCode, and non-web server Node.js JavaScript code.
+[cit281-project1](https://erikakoopmans.github.io/cit281-project1/) Gain experience using command line interface, CLI commands, VSCode, and non-web server Node.js JavaScript code.
 
 [cit281-lab3](https://erikakoopmans.github.io/cit281-lab3/) Practice deconstructing an object, converting normal functions to arrow functions, and examning code using the spread operator.
 
