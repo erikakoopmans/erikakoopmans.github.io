@@ -7,7 +7,7 @@
 
 cit281-project1 Gain experience using command line interface, CLI commands, VSCode, and non-web server Node.js JavaScript code.
 
-cit281-lab3 Practice deconstructing an object, converting normal functions to arrow functions, and examning code using the spread operator.
+[cit281-lab3](https://erikakoopmans.github.io/cit281-lab3/) Practice deconstructing an object, converting normal functions to arrow functions, and examning code using the spread operator.
 
 cit281-project2 Used CLI to create and work with git repo, refactored JavaScript program, and used git via VSCode.
 
